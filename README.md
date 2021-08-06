@@ -1,5 +1,5 @@
 # core-polly-retry-pattern
-Testes da adoção de Polly na implementação de código resiliente e tratamento de falhas.
+Testes da adoção de Polly na implementação de código resiliente e tratamento de falhas. O projeto conta com uma API para consumo (resource) e outra onde foi aplicado o retry pattern com Polly.
 
 # Como executar:
 - Clonar / baixar o repositório em seu workplace.
